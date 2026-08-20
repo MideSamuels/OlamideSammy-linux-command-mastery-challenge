@@ -1,4 +1,4 @@
-# linux-command-mastery-challenge
+# LINUX-COMMAND-MASTERY-CHALLENGE
 30-Day Linux Command Mastery Challenge : Hands-on practice, documentation, and evidence of Linux command-line skills.
 
 Welcome to my 30-Day Linux Command Mastery Challenge, where I am building practical Linux command-line proficiency 
@@ -56,6 +56,5 @@ Build stronger command-line problem-solving skills
 | 29 | Functions, Arguments & Automation | ⏳ Pending | `day-29-functions-automation` |
 | 30 | Capstone: Full System Command Mastery | ⏳ Pending | `day-30-capstone` |
 
-🔗 Connect with me
-LinkedIn: [www.linkedin.com/in/olamide-samuel-8a568242b](https://www.linkedin.com/in/olamidesammy/)
+🔗 **Connect with me on LinkedIn:** [Olamide Samuel](https://www.linkedin.com/in/olamidesammy/)
 
