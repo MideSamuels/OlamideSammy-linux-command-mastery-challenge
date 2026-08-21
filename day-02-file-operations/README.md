@@ -20,6 +20,6 @@ Screenshot or terminal transcript of the drill in `evidence`.
 
 Related
 
-Previous day: `../day-01-file-navigation/read.md`
+Previous day: [../day-01-file-navigation/read.md](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-01-file-navigation)
 
 Next day: `../day-03-file-inspection/read.md`
