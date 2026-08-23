@@ -35,7 +35,7 @@ Through this challenge, I am developing my ability to:
 | 1 | Linux Fundamentals & Navigation | ✅ Complete | [day-01](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-01-file-navigation) |
 | 2 | Creating, Copying, Moving, Deleting |✅ Complete | [day-02](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-02-file-operations) |
 | 3 | Reading & Inspecting Files | ✅ Complete| [day-03](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-03-file-inspection)|
-| 4 | Searching the Filesystem | ⏳ Pending| `day-04` |
+| 4 | Searching the Filesystem |✅ Complete| [day-04](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-04-filesystem-search)|
 | 5 | Paths, Links & Tree Structures (Checkpoint) | ⏳ Pending | `day-05` |
 | 6 | Reading & Setting Permissions | ⏳ Pending | `day-06` |
 | 7 | Ownership & Special Bits | ⏳ Pending | `day-07` |
