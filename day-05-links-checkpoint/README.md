@@ -1,5 +1,7 @@
 File Navigation & Filesystem Mastery | Day 5 of 30
+
 Refer to commands.md for the 10 commands practiced today, including their syntax, examples, and my own explanation of how each command works and when I would use it.
+
 ## What I practiced
 I practiced working with Linux paths, directory structures, and links. For the checkpoint drill, I created a symbolic link to a configuration file, resolved its real path, displayed a two-level directory tree of `/etc`, and reviewed the difference between hard links and symbolic links.
 
