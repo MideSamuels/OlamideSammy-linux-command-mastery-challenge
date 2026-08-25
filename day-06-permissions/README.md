@@ -18,6 +18,6 @@ Terminal transcript of the completed Day 6 permissions drill is stored in eviden
 
 Related
 
-Previous day: ../day-05-links-checkpoint[(https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-05-links-checkpoint)]
+Previous day: ../(day-05-links-checkpoint)[https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-05-links-checkpoint]
 
 Next day: ../day-07-ownership/[(_]
