@@ -15,3 +15,9 @@ I was surprised by how the same permission setting can be achieved using differe
 Evidence
 
 Terminal transcript of the completed Day 6 permissions drill is stored in evidence.md.
+
+Related
+
+Previous day: ../day-05-links-checkpoint/
+
+Next day: ../day-07-ownership/
