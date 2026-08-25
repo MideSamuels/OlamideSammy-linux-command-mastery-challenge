@@ -2,7 +2,7 @@ Day 06: Reading & Setting Permissions
 
 Phase 2 - Permissions, Ownership & Security | Day 6 of 30
 
-Refer to commands.md for the 10 commands practiced today, including their syntax and my own explanation of how each command works and when I would use it.
+Refer to commands.md for the 10 commands practiced today, including their syntax, examples, and my own explanation of how each command works and when I would use it.
 
 What I practiced
 
