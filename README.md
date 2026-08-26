@@ -38,7 +38,7 @@ Through this challenge, I am developing my ability to:
 | 4 | Searching the Filesystem |✅ Complete| [day-04](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-04-filesystem-search)|
 | 5 | Paths, Links & Tree Structures (Checkpoint) | ✅ Complete | [day-05](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-05-links-checkpoint) |
 | 6 | Reading & Setting Permissions | ✅ Complete | [day-06](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-06-permissions) |
-| 7 | Ownership & Special Bits | ⏳ Pending | `day-07` |
+| 7 | Ownership & Special Bits | ✅ Complete  | [day-07](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-07-ownership) |
 | 8 | Privilege Escalation & Identity | ⏳ Pending | `day-08` |
 | 9 | Integrity, Encryption & Firewalling | ⏳ Pending | `day-09` |
 | 10 | Security Checkpoint & Audit | ⏳ Pending | `day-10` |
