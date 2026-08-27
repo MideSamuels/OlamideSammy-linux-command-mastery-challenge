@@ -2,7 +2,7 @@ Day 08: Privilege Escalation & Identity
 
 Phase 2 - Permissions, Ownership & Security | Day 8 of 30
 
-Refer to commands.md for the 10 commands practiced today, including their syntax and my own explanation of what each command does and when I would use it.
+Refer to [commands.md](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/blob/main/day-08-privilege-escalation/commands.md) for the 10 commands practiced today, including their syntax and my own explanation of what each command does and when I would use it.
 
 What I practiced
 
@@ -18,8 +18,8 @@ Terminal transcript of the completed Day 8 privilege escalation and identity dri
 
 Related
 
-Previous day: ../day-07-ownership/
+Previous day: [../day-07-ownership/](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-07-ownership)
 
-Next day: ../day-09-integrity-firewall/
+Next day: [../day-09-integrity-firewall/]()
 
 
