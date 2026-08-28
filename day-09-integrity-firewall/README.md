@@ -2,7 +2,7 @@
 
 **Phase 2 - Permissions, Ownership & Security | Day 9 of 30**
 
-Refer to [commands.md](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/blob/main/day-09-integrity-firewall/commands.md)for the 10 commands practiced today, including their syntax and my own explanation of what each command does and when I would use it.
+Refer to [commands.md](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/blob/main/day-09-integrity-firewall/commands.md) for the 10 commands practiced today, including their syntax and my own explanation of what each command does and when I would use it.
 
 ## What I practiced
 
