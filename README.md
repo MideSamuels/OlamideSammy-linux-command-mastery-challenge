@@ -41,7 +41,7 @@ Through this challenge, I am developing my ability to:
 | 7 | Ownership & Special Bits | ✅ Complete  | [day-07](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-07-ownership) |
 | 8 | Privilege Escalation & Identity | ✅ Complete  | [day-08](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-08-privilege-escalation) |
 | 9 | Integrity, Encryption & Firewalling | ✅ Complete  | [day-09](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-09-integrity-firewall) |
-| 10 | Security Checkpoint & Audit | ⏳ Pending | `day-10` |
+| 10 | Security Checkpoint & Audit | ✅ Complete|[day-10](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-10-security-audit-checkpoint)|
 | 11 | Package Management Fundamentals | ⏳ Pending | `day-11` |
 | 12 | Advanced Package Management | ⏳ Pending | `day-12` |
 | 13 | Users & Groups Management | ⏳ Pending | `day-13` |
