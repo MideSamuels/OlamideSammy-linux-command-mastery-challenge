@@ -42,7 +42,7 @@ Through this challenge, I am developing my ability to:
 | 8 | Privilege Escalation & Identity | ✅ Complete  | [day-08](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-08-privilege-escalation) |
 | 9 | Integrity, Encryption & Firewalling | ✅ Complete  | [day-09](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-09-integrity-firewall) |
 | 10 | Security Checkpoint & Audit | ✅ Complete|[day-10](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-10-security-audit-checkpoint)|
-| 11 | Package Management Fundamentals | ⏳ Pending | `day-11` |
+| 11 | Package Management Fundamentals | ✅ Complete | [day-11](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-11-user-management)|
 | 12 | Advanced Package Management | ⏳ Pending | `day-12` |
 | 13 | Users & Groups Management | ⏳ Pending | `day-13` |
 | 14 | System Services & Daemons | ⏳ Pending | `day-14` |
