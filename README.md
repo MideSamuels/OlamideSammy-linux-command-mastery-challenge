@@ -45,7 +45,7 @@ Through this challenge, I am developing my ability to:
 | 11 | Package Management Fundamentals | ✅ Complete | [day-11](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-11-user-management)|
 | 12 | Advanced Package Management |  ✅ Complete | [day-12](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-12-groups) |
 | 13 | Users & Groups Management | ✅ Complete  | [day-13](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-13-apt-package-management) |
-| 14 | System Services & Daemons | ⏳ Pending | `day-14` |
+| 14 | System Services & Daemons | ✅ Complete | [day-14](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-14-dnf-yum) |
 | 15 | Provisioning & Packages Checkpoint | ⏳ Pending | `day-15` |
 | 16 | Environment Variables | ⏳ Pending | `day-16` |
 | 17 | Persisting Configuration | ⏳ Pending | `day-17` |
