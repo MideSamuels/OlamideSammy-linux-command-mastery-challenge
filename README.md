@@ -48,7 +48,7 @@ Through this challenge, I am developing my ability to:
 | 14 | System Services & Daemons | ✅ Complete | [day-14](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-14-dnf-yum) |
 | 15 | Provisioning & Packages Checkpoint | ✅ Complete | [day-15](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-15-provisioning-checkpoint) |
 | 16 | Environment Variables | ✅ Complete  | [day-16](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-16-environment-variables) |
-| 17 | Persisting Configuration | ⏳ Pending | `day-17` |
+| 17 | Persisting Configuration |  ✅ Complete| [day-17](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-17-shell-configuration) |
 | 18 | Vim Fundamentals | ⏳ Pending | `day-18` |
 | 19 | Vim Navigation & Search/Replace | ⏳ Pending | `day-19` |
 | 20 | Text Processing & Pipes (Checkpoint) | ⏳ Pending | `day-20` |
