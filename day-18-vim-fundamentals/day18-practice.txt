@@ -1,3 +1,0 @@
-iLinux is an important operating system.
-Vim is a powerful terminal editor.
-I am learning Linux for Cloud Engineering.:wq:wq
