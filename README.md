@@ -50,7 +50,7 @@ Through this challenge, I am developing my ability to:
 | 16 | Environment Variables | ✅ Complete  | [day-16](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-16-environment-variables) |
 | 17 | Persisting Configuration |  ✅ Complete| [day-17](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-17-shell-configuration) |
 | 18 | Vim Fundamentals | ✅ Complete | [day-18](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-18-vim-fundamentals) |
-| 19 | Vim Navigation & Search/Replace | ⏳ Pending | `day-19` |
+| 19 | Vim Navigation & Search/Replace | ✅ Complete| [day-19](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-19-vim-search-replace) |
 | 20 | Text Processing & Pipes (Checkpoint) | ⏳ Pending | `day-20` |
 | 21 | Viewing Processes | ⏳ Pending | `day-21` |
 | 22 | Controlling Processes with Signals | ⏳ Pending | `day-22` |
