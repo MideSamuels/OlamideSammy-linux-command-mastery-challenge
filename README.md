@@ -51,7 +51,7 @@ Through this challenge, I am developing my ability to:
 | 17 | Persisting Configuration |  ✅ Complete| [day-17](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-17-shell-configuration) |
 | 18 | Vim Fundamentals | ✅ Complete | [day-18](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-18-vim-fundamentals) |
 | 19 | Vim Navigation & Search/Replace | ✅ Complete| [day-19](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-19-vim-search-replace) |
-| 20 | Text Processing & Pipes (Checkpoint) | ⏳ Pending | `day-20` |
+| 20 | Text Processing & Pipes (Checkpoint) | ✅ Complete | [day-20](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-20-text-processing-checkpoint)|
 | 21 | Viewing Processes | ⏳ Pending | `day-21` |
 | 22 | Controlling Processes with Signals | ⏳ Pending | `day-22` |
 | 23 | Init Systems & systemctl Basics | ⏳ Pending | `day-23` |
