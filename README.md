@@ -54,7 +54,7 @@ Through this challenge, I am developing my ability to:
 | 20 | Text Processing & Pipes (Checkpoint) | ✅ Complete | [day-20](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-20-text-processing-checkpoint)|
 | 21 | Viewing Processes |  ✅ Complete| [day-21](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-21-viewing-processes)|
 | 22 | Controlling Processes with Signals | ✅ Complete | [day-22](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-22-process-signals) |
-| 23 | Init Systems & systemctl Basics | ⏳ Pending | `day-23` |
+| 23 | Init Systems & systemctl Basics | ✅ Complete | [day-23](https://github.com/MideSamuels/OlamideSammy-linux-command-mastery-challenge/tree/main/day-23-systemctl-basics) |
 | 24 | Deeper Service Management & Logs | ⏳ Pending | `day-24` |
 | 25 | Process & Service Checkpoint | ⏳ Pending | `day-25` |
 | 26 | Networking Basics | ⏳ Pending | `day-26` |
